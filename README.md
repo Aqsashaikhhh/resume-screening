@@ -2,7 +2,6 @@
 
 This repository contains a machine learning project focused on automating the resume screening process using Python. The primary goal is to develop a model that can efficiently and accurately evaluate resumes based on predefined criteria.
 
-<img src="Cover.png" alt="resume cover">
 
 ## Table of Contents
 
@@ -70,15 +69,6 @@ Screening resumes usually involves a three-step process based on the role’s mi
 - The best AI software is designed to integrate seamlessly with your current recruiting stack so it doesn’t disrupt your workflow nor the candidate workflow.
 - Industry experts predict this type of automation technology will transform the recruiting function.
 
-## Installation
-
-To get started with the project, clone the repository and install the required dependencies.
-
-```bash
-git clone https://github.com/anukalp-mishra/Resume-Screening.git
-cd Resume-Screening
-pip install -r requirements.txt
-```
 ## Usage
 Follow these steps to use the project:
 
